@@ -1,0 +1,9 @@
+[project]
+name = "tsp-genetic-algorithm"
+version = "0.1.0"
+description = "Advanced Genetic Algorithm for solving the Traveling Salesman Problem with k-nearest neighbor initialization, 2-opt mutation, and multi-tier breeding strategies"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "scipy>=1.16.1",
+]
